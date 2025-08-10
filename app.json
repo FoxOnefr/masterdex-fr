@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "MasterDex FR",
+    "slug": "masterdex-fr",
+    "version": "1.0.0",
+    "platforms": ["android"],
+    "sdkVersion": "49.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.tonnom.masterdexfr"
+    }
+  }
+}
