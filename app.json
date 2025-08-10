@@ -3,11 +3,18 @@
     "name": "MasterDex FR",
     "slug": "masterdex-fr",
     "version": "1.0.0",
-    "platforms": ["android"],
+    "platforms": [
+      "android"
+    ],
     "sdkVersion": "49.0.0",
     "orientation": "portrait",
     "android": {
       "package": "com.tonnom.masterdexfr"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "96069ebe-373e-4c3d-a798-0d661623af43"
+      }
     }
   }
 }
